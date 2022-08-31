@@ -1,5 +1,7 @@
 # vscode-codeql-starter
 
+[![CodeQL](https://github.com/robinagandhi/vscode-codeql-starter/actions/workflows/codeql.yml/badge.svg)](https://github.com/robinagandhi/vscode-codeql-starter/actions/workflows/codeql.yml)
+
 A starter workspace to use with the [CodeQL extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=github.vscode-codeql). For more information, see the [`vscode-codeql` repo](https://github.com/github/vscode-codeql/).
 
 ## Instructions
